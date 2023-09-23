@@ -541,7 +541,7 @@ h6,
     height: 100%;
 }
 .dropdown-item:nth-last-of-type(odd){
-    background-color: #9ab7ff;
+    background-color: #dce6ff;
 }
 .row{
     justify-content: center;
